@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 9b8f2a0bcbb5a2b479432558cae14876
+  productGUID: fa2173f099704f842909deced080cdf4
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: new man v2
+  productName: RAD_Z_Morry
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -677,14 +677,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: new man v2
+  metroPackageName: RAD_Z_Morry
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: new man v2
+  metroApplicationDescription: RAD_Z_Morry
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -754,11 +754,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 6a91a287-3e6d-4738-a0dc-4d6d81de5c27
+  cloudProjectId: a981696d-60db-4f74-8d68-a78ffe17c9e6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: new man v2
-  organizationId: andrii-shchennikov
+  projectName: RAD_Z_Morry
+  organizationId: morry_not_dead
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
